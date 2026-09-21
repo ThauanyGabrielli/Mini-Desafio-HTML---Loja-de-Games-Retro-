@@ -1,33 +1,27 @@
 # 🎮 GameZone Retro - Mini Desafio HTML
 
-Projeto desenvolvido como solução do **Mini Desafio HTML**, com o objetivo de criar uma página promocional funcional para a loja de jogos clássicos **GameZone Retro**.
+Página promocional simples e funcional criada para a loja **GameZone Retro**, desenvolvida como solução para o Mini Desafio de HTML.
 
 ---
 
-## 📌 Sobre o Projeto
+## 🎯 Objetivo
 
-A proposta principal do projeto é a **concisão**: criar uma página HTML estruturada, sem uso de CSS/JavaScript, em **menos de 50 linhas de código**, contemplando todas as boas práticas iniciais de marcação.
-
----
-
-## 🛠️ Recursos e Elementos Implementados
-
-1. **Estrutura de Texto:**
-   * Utilização de título principal (`<h1>`) e subtítulos (`<h2>`).
-   * Texto estilizado com tags semânticas para negrito (`<b>`) e itálico (`<i>`).
-2. **Navegação:**
-   * **Link Interno (Âncora):** Direciona o usuário para a seção de preços (`#precos`).
-   * **Link Externo:** Redirecionamento para a página do Instagram (com abertura em nova aba).
-3. **Mídia:**
-   * Imagem promocional temática vinculada com `<img>` e atributo `alt` acessível.
-4. **Listas:**
-   * Lista não ordenada (`<ul>`) para a exibição dos consoles disponíveis.
-5. **Tabela de Dados:**
-   * Tabela (`<table>`) contendo cabeçalho (`<th>`) e dados (`<td>`) relacionando jogos, consoles e valores em R$.
+Construir uma página web promocional compacta em HTML puro, utilizando no máximo **50 linhas de código** e aplicando os conceitos fundamentais de estruturação web.
 
 ---
 
-## 🎯 Resultado do Desafio
+## 🚀 Requisitos Cumpridos
 
-* **Limite do Desafio:** Máximo 50 linhas
-* **Linhas Utilizadas:** **37 linhas** (Superado com sucesso!)
+- [x] **Estrutura de Texto:** Utilização de `<h1>`, `<h2>`, parágrafos, `<strong>` (negrito) e `<em>` (itálico).
+- [x] **Navegação:**
+  - Link interno tipo âncora (`<a href="#tabela">`) com suporte ao atributo `id`.
+  - Link externo com abertura em nova aba (`target="_blank"`).
+- [x] **Mídia:** Tag `<img>` configurada com dimensões ajustadas.
+- [x] **Lista:** Lista não ordenada (`<ul>`) para listagem dos consoles.
+- [x] **Tabela:** Tabela formatada (`<table>`) com cabeçalhos (`<th>`) e dados (`<td>`) para apresentação dos produtos e preços.
+
+---
+
+## 📊 Métrica do Desafio
+
+- **Limite permitido:** 50 linhas
